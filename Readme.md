@@ -1,5 +1,6 @@
-#Pokemono
-##pokemon game created for learning about classes
+*Pokemono*
+
+_pokemon game created for learning about classes_
 
 TO-DO
 -After experimenting with your Classes, go back to your methods and add some logic to deal with edge cases that you might not have thought about. Here are a couple of examples that you could try to implement:
